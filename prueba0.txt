@@ -4,14 +4,16 @@ Esta es un apruba de mi main
 ----------------------------
 ----------------------------
 - Se realizo el esqueleto del proyecto.
+
+==========================================
     - Desarrollador 1 hace NavBar
+===========================================
 
         - Desarrollador 2 agrega estilos al NavBar (refator2)
         - Se agrego logo al NavBar (refactor2)
-
-
+==============================================       
+- Se trabajo con el cuerpo de la pagina
 ----- Footer---------
 -Hola 
 -footer
 ---------------------
-
