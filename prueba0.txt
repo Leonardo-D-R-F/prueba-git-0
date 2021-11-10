@@ -11,7 +11,7 @@ Esta es un apruba de mi main
 
 
 ----- Footer---------
-Hola 
-footer
+-Hola 
+-footer
 ---------------------
 
