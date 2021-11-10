@@ -10,4 +10,7 @@ Esta es un apruba de mi main
         - Se agrego logo al NavBar (refactor2)
 
 
+
 Hola 
+footer
+
