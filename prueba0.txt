@@ -4,5 +4,5 @@ Esta es un apruba de mi main
 ----------------------------
 ----------------------------
 - Se realizo el esqueleto del proyecto.
-    - Desarrollador 1 hace NavBar
-        - Se agrego logo al NavBar
+    - Desarrollador 1 hace NavBar (refactor)
+        - Se agrego logo al NavBar (refactor)
